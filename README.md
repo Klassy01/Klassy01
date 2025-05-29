@@ -1,63 +1,65 @@
 # 👋 Hi, I'm David Jayaraj A
 
-🎓 Student | 💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Innovator
+🚀 **AI & Data Science Enthusiast | Full Stack Developer | Innovator**
 
-Welcome to my GitHub! I'm passionate about building tech that makes a real-world impact. From full-stack web apps to AI-powered education tools, I love creating solutions that are user-focused, scalable, and smart.
+Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Artificial Intelligence and Data Science at Karunya Institute of Technology and Sciences. I specialize in crafting intelligent solutions using cutting-edge technologies, and I'm driven by a love for building impactful AI systems and scalable web/mobile applications.
+
+---
+
+## 💼 Work Experience
+
+- **Machine Learning Intern** @ CODTECH IT Solutions  
+  Built ML pipelines, predictive models & deployed visual dashboards with Power BI.
+
+- **App Developer Intern** @ Nandha Infotech  
+  Developed mobile apps with Flutter, integrated REST APIs, and real-time data using Firebase.
+
+- **Data Science Intern** @ YBI Foundation  
+  Preprocessed data, conducted exploratory data analysis, and supported model training.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages**: JavaScript, Python, Java, HTML, CSS
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Tools & Platforms**: Git, Docker, Firebase, Google Cloud, VSCode
-- **AI/ML**: OpenCV, TensorFlow, PyTorch, OpenVINO, Hugging Face
-- **Design**: Figma, Adobe XD
+**Languages:** Python, Java, C, PHP, JS, TypeScript  
+**Frameworks:** Django, FastAPI, Flask, React, Tailwind, Bootstrap  
+**Mobile:** Flutter & Dart  
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
+**Tools:** Power BI, Postman, VS Code  
+**ML/AI:** Pandas, Scikit-Learn, TensorFlow, Keras
 
 ---
 
-## 🚀 Notable Projects
+## 📌 Projects
 
-- 🎓 **AI-Powered Personal Tutor**  
-  Adaptive learning system with real-time MCQ generation, student progress tracking, and voice-based tutoring
+### 🔹 AI-Powered Personal Tutor
+Adaptive learning platform using AI for dynamic progress tracking and personalized content.
 
-- 🎮 **Educational Game Platform**  
-  Built using generative AI to deliver dynamic quizzes and adaptive scenarios
+### 🔹 Scaling Trust
+AI system to detect misinformation and online harms like cyberbullying.
 
-- 📊 **Retail Video Analytics Tool**  
-  Real-time customer behavior tracking using computer vision and analytics dashboard
-
-- 🛒 **E-commerce UX Revamp**  
-  Redesigned user experience that boosted conversion rates by 20%
-
-- 📱 **NGO Mobile App**  
-  Helped a local charity reach 5000+ users with an intuitive mobile platform
+### 🔹 Lab Agent
+Smart lab assistant platform for automating records, tutorials, and documentation.
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications
 
-- 🥇 Hackathon Winner  
-- 👨‍💻 Intel Unnati Industrial Training Participant  
-- 🧠 Open Source Contributor  
-- 💼 Freelance Web & App Developer
-
----
-
-## 🌱 Currently Learning
-
-- Retrieval-Augmented Generation (RAG)  
-- AI model optimization with Intel tools  
-- Real-time content moderation with multimodal AI
+- Google Data Analytics – Coursera  
+- Career Essentials in Data Analysis – Microsoft & LinkedIn  
+- Machine Learning with Python  
+- SQL Mastery Certification
 
 ---
 
-## 📫 Let's Connect!
+## 🌐 Let's Connect
 
-- 💼 Portfolio: [Your Portfolio URL]  
-- 📧 Email: [your email]  
-- 💬 LinkedIn: [Your LinkedIn URL]
+- 💼 [Portfolio](https://davidjayaraj.netlify.app/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/davidjayaraja01/)  
+- 🧠 [GitHub](https://github.com/Klassy01)  
+- 📧 davidbeniel2006@gmail.com
 
-Thanks for stopping by! 🚀
+---
+
+> 💡 *"Code with purpose. Build with passion. Learn endlessly."*
+
