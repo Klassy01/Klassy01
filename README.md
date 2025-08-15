@@ -1,8 +1,22 @@
-# 👋 Hi, I'm David Jayaraj A
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Innovator+%26+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
-🚀 **AI & Data Science Enthusiast | Full Stack Developer | Innovator**
+<h1 align="center">Hi 👋, I'm David Jayaraj A</h1>
+<h3 align="center">🚀 AI & Data Science Enthusiast | Full Stack Developer | Innovator</h3>
 
-Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Artificial Intelligence and Data Science at Karunya Institute of Technology and Sciences. I specialize in crafting intelligent solutions using cutting-edge technologies, and I'm driven by a love for building impactful AI systems and scalable web/mobile applications.
+---
+
+## 👋 About Me
+
+I'm **David Jayaraj A**, a passionate developer pursuing **B.Tech in Artificial Intelligence and Data Science** at **Karunya Institute of Technology and Sciences**.  
+I love building **intelligent AI systems** and **scalable applications** that create real-world impact.
+
+- 🚀 Exploring **Machine Learning**, **LLMs**, and **Generative AI**  
+- 💻 Building **full-stack** web & mobile applications  
+- 📊 Skilled in **Data Analytics**, **Dashboards**, and **Automation**  
+- 🌱 Always eager to **collaborate** and **learn**  
 
 ---
 
@@ -21,12 +35,12 @@ Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Artificial I
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, C, PHP, JS, TypeScript  
+**Languages:** Python, Java, C, PHP, JavaScript, TypeScript  
 **Frameworks:** Django, FastAPI, Flask, React, Tailwind, Bootstrap  
 **Mobile:** Flutter & Dart  
 **Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
 **Tools:** Power BI, Postman, VS Code  
-**ML/AI:** Pandas, Scikit-Learn, TensorFlow, Keras
+**ML/AI:** Pandas, Scikit-Learn, TensorFlow, Keras  
 
 ---
 
@@ -48,18 +62,32 @@ Smart lab assistant platform for automating records, tutorials, and documentatio
 - Google Data Analytics – Coursera  
 - Career Essentials in Data Analysis – Microsoft & LinkedIn  
 - Machine Learning with Python  
-- SQL Mastery Certification
+- SQL Mastery Certification  
 
 ---
 
-## 🌐 Let's Connect
+## ⚡ Stats
 
-- 💼 [Portfolio](https://davidjayaraj.netlify.app/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/davidjayaraja01/)  
-- 🧠 [GitHub](https://github.com/Klassy01)  
-- 📧 davidbeniel2006@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Klassy01&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klassy01&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klassy01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://davidjayaraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/davidjayaraja01/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Klassy01"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:davidbeniel2006@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 > 💡 *"Code with purpose. Build with passion. Learn endlessly."*
-
