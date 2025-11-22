@@ -96,6 +96,9 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%2300A67E?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-%232671E5?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### 🛠️ Tools & DevOps
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
