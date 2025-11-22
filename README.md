@@ -18,13 +18,12 @@ I'm **David Jayaraj A**, a detail-oriented **AI and Data Science professional** 
 
 I specialize in building **AI-powered solutions**, **scalable full-stack applications**, and **data-driven systems** that solve real-world problems. With expertise in **machine learning**, **LLMs**, **RAG systems**, and **end-to-end development**, I transform ideas into impactful digital experiences.
 
-- 🔭 Currently working on **AI Call Intelligence Platform** & **Industrial IoT Safety Monitoring**
 - 🌱 Exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Model Context Protocol (MCP)**
 - 💡 Passionate about **Computer Vision**, **NLP**, and **Predictive Analytics**
 - 💻 Building with **FastAPI**, **React**, **TypeScript**, and **Python**
 - 📊 Expert in **Data Analytics**, **Power BI Dashboards**, and **Machine Learning Pipelines**
 - 🤝 Open to **collaborations** and **innovative projects**
-- 📫 Reach me at **davidjayaraj101@gmail.com**
+- 📫 Reach me at **davidjayaraj01@gmail.com**
 - 🌐 Portfolio: **[davidjayaraj.tech](https://davidjayaraj.tech/)**
 
 ---
